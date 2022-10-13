@@ -1,7 +1,3 @@
 - 👋 Hi, I’m @zerealone
-- 🌱 I’m discord bots developer
-
-<!---
-zerealone/zerealone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m Back-End Developer
+- 👻 Workin' on some Nodey Projects
