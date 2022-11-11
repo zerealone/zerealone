@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @zerealone
-- 🌱 I’m Back-End Developer
-- 👻 Workin' on some Nodey Projects
+- 👋 Hi, I’m ZeRealOne!
+- 🏓 Ping-Pong'ing staff
+- 🍪 Loves cookies
