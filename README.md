@@ -1,3 +1,2 @@
 - 👋 Hi, I’m ZeRealOne!
-- 🏓 Ping-Pong'ing staff
-- 🍪 Loves cookies
+- 📪 Contact me on Discord! `ZeRealOne#3663`
